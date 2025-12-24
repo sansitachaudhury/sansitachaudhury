@@ -49,7 +49,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sansitachaudhury&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=1800"/>
+  <img
+    src="https://stats.dooboo.io/api/github-stats?username=sansitachaudhury&theme=github_dark"
+    alt="GitHub stats"
+  />
 </p>
 
 
