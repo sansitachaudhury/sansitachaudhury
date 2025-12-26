@@ -49,16 +49,17 @@
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://stats.dooboo.io/api/github-stats?username=sansitachaudhury&theme=github_dark"
-    alt="GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sansitachaudhury&show_icons=true" />
 </p>
-
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sansitachaudhury&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sansitachaudhury" />
 </p>
+
+<!--
+![Profile Views](https://komarev.com/ghpvc/?username=sansitachaudhury)
+![GitHub followers](https://img.shields.io/github/followers/sansitachaudhury?label=Followers)
+-->
 
 ---
 
