@@ -3,7 +3,7 @@
 🎓 2nd Year BE - Computer Science Engineering Student  
 ⚙️ Exploring backend development and cybersecurity    
 🧠 Strong focus on **Data Structures & Algorithms**  
-🎨 Interested in UI/UX, Web Development, AI/ML and Data Science.   
+🎨 Interested in UI/UX, AI/ML and Data Science.   
 
 >_Learning by Building_
 
@@ -20,13 +20,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
 </p>
 
-### ⚙️ Backend & Desktop Frameworks
+### ⚙️ Technologies & Frameworks
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tkinter-FFDD54?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge&logo=websocket&logoColor=white"/>
 </p>
 
 ### 🗄 Databases
